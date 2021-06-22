@@ -8,8 +8,10 @@
   background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
   align-items: center;
   min-width: 40%;
+  color: #fff;
 }
 .image {
   width: 50%;
+  height: 50%;
   border-radius: 50%;
 }
