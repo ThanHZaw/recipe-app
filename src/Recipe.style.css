@@ -5,7 +5,7 @@
   flex-direction: column;
   display: flex;
   justify-content: center;
-  background: #fff;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
   align-items: center;
   min-width: 40%;
 }
